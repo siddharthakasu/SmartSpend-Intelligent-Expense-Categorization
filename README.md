@@ -1,7 +1,4 @@
-Sure 👍
-Here’s a **clean, professional GitHub README** you can directly copy and paste. It’s written in a **resume-ready and recruiter-friendly** way. You can tweak names/details if needed.
 
----
 
 # 💰 SmartSpend – Intelligent Expense Analysis & Prediction
 
